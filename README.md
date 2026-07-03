@@ -90,7 +90,7 @@ Built for the reality of OPCs:
 - Configure your preferred LLM
 - Import your project (or start blank) → begin diagnosing, prioritizing, publishing
 
-📖 Full docs, CLI reference, and workflow guides: https://meiyan.tech/app/help?app=cube
+📖 Full docs, CLI reference, and workflow guides: [docs](https://meiyan.tech/app/help?app=cube)    
 💬 Join our indie builder community: [Discord](https://discord.gg/Y4YQnMfa)
 
 > 💡 Product Cube isn’t trying to replace you. It replaces the 7 tabs, 3 spreadsheets, and 2 half-baked tools you keep juggling.
