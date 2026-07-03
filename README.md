@@ -2,9 +2,9 @@
 
 **The All-in-One AI Copilot for One-Person Companies & Indie Developers**
 
-> ✅ Fully built. 
-> ✅ Production-ready. 
-> ✅ No beta — just shipped features.
+> ✅ Fully built.     
+> ✅ Production-ready.     
+> ✅ No beta — just shipped features.    
 > Designed by indie builders, for solo founders: from idea diagnosis → demand-driven development → store-optimized growth — all in one privacy-first desktop app.
 
 *Local-first. Your data never leaves your machine.*
