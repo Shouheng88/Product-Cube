@@ -1,7 +1,9 @@
 
 # 🧊 Product Cube
 
-<img src="res/logo.png" width=150/>
+[中文简体](doc/README-zh.md)
+
+<img src="res/en/logo.png" width=150/>
 
 **The All-in-One AI Copilot for One-Person Companies & Indie Developers**
 
@@ -32,28 +34,28 @@ Built for the reality of OPCs:
 
 #### Project Analysis
 
+![](res/en/project.png)
+
 - Auto-diagnose positioning, core functionality, target scenes, and business model viability
 - Holistic project health score + actionable insights
 - Context-aware chat: ask “How do I monetize this better?” or “What’s missing vs. competitors?”
 
-![](res/project.png)
-
 #### Demand-Driven Requirements Management
+
+![](res/en/requirement.png)
 
 - CRUD for features, epics, and user stories
 - Version tracking with AI-generated changelogs & release notes (Git-integrated)
 - AI-powered demand scoring: urgency × impact × effort estimation + plain-English rationale
 
-![](res/requirement.png)
-
 #### Feedback Intelligence
+
+![](res/en/feedback.png)
 
 - Submit & triage user feedback (email, in-app, social)
 - AI-assisted sentiment + feasibility analysis using your product context
 - One-click convert feedback → prioritized requirement
 - Template-based, tone-aware reply generation (e.g., “We hear you — here’s why we’re pausing this”)
-
-![](res/feedback.png)
 
 ### 🚀 Operations Workflow
 
@@ -61,20 +63,20 @@ Built for the reality of OPCs:
 
 #### App Store Optimization (ASO) Studio
 
+![](res/en/store.png)
+
 - Manual or browser-scraped import of Google Play / App Store listings
 - Instant ASO audit: keyword density, title/description score, icon/screenshot guidance
 - AI-generated keyword suggestions + rank tracking (via optional lightweight API proxy)
 - Chat over your store metadata: “Rewrite my subtitle for higher CTR”
 
-![](res/store.png)
-
 #### Social-First Content Engine
+
+![](res/en/publish.png)
 
 - One-click soft-launch posts (Twitter/X, LinkedIn, Mastodon, Bluesky) — tailored per platform
 - Built-in engagement loop: track link clicks, replies, shares → feed back into feedback & roadmap
 - All content generated in-context: references your latest release, user quotes, or GitHub commits
-
-![](res/publish.png)
 
 #### Build-in-Public Weekly Reports
 
@@ -84,13 +86,11 @@ Built for the reality of OPCs:
 
 #### Version & Ops Health Dashboard
 
+![](res/en/log.png)
+
 - Track release dates across stores, web, and social channels
 - Detect silence gaps (“37 days since last post”)
 - Visual health score: consistency × reach × resonance
-
-> ⚠️ Note: “Account Cultivation” (SNS automation for Xiaohongshu) is an internal capability — not exposed in the public build, and intentionally omitted from documentation & UI.
-
-![](res/log.png)
 
 ### 🔒 Privacy & Control — Non-Negotiable
 
